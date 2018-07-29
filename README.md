@@ -1,4 +1,4 @@
-Purpose
+# Purpose
 
 The purpose of this dummy test project is to prototype how to tests
 file quality check during the build process...it's like some linting...but dedicated forcsv files.
@@ -13,7 +13,7 @@ The project scans the files and causes the run to fail if any csv does not meet 
 As a result, since the tests are passing, you have the guarantee that they will nicely be displayed on Github,
 which is really very convenient.
 
-Further
+# Further
 
 The first approach was to develop as fast a possible something that would protect our master Branch
 with Travis build against malformated csv files.
