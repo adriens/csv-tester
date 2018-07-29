@@ -22,3 +22,6 @@ If you feel that a maven plugin could be a nice feature : tell it.
 If you feel that a more advanced csv linter should be implemented : tell it (or code and donate it).
 If you have any other id on how to lint maven project source files : give your ideas ...or donate some code.
 
+# linkedIn article
+
+A dedicated linkedIn article is available here : https://www.linkedin.com/pulse/unit-test-vs-rules-lints-ci-daedalus-laws-adrien-sales/
