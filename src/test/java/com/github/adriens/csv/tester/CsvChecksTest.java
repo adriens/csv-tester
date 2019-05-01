@@ -170,7 +170,7 @@ public class CsvChecksTest {
                     prevNbColumns = currentNbColumns;
                     currentNbColumns = record.size();
                 }
-                Assert.assertEquals("All rows (see row <" + (i + 1) + "> of file <" + lFile.getPath() + "> : ) should have the same number of columns", currentNbColumns, prevNbColumns);
+                Assert.assertEquals("All rows (see row <" + (i + 1) + "> of file <" + lFile.getPath() + "> : ) should have the same number of columns. ", prevNbColumns, currentNbColumns);
                 i++;
             }
 
